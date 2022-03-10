@@ -13,7 +13,7 @@
 <body>
     <form action="lab1_bai4.php" method="post">
         Nhập vào năm sinh: 
-        <input type="text" name="nam"> <br>
+        <!-- <input type="text" name="nam"> <br> -->
        
         <button type="submit">Submit</button>
 
