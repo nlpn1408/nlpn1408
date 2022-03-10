@@ -1,0 +1,72 @@
+body {
+    box-sizing: border-box;
+    background-color: #eee;
+    background-image: url(https://3.bp.blogspot.com/-7lMP43U_k7s/Ue11W90uvYI/AAAAAAAAFO4/pBaiD-TZp7Q/s1600/abstract-sky-background.jpg);
+}
+
+form {
+    margin: 50px auto;
+    width: 30%;
+    padding: 20px 15px 20px;
+    box-shadow: 0 0 3px gray;
+    background-color: white;
+    min-height: 500px;
+}
+
+form input {
+    width: 90%;
+    /* margin: 10px 0 0; */
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(167, 165, 165);
+    outline: none;
+}
+
+button {
+    width: 50%;
+    padding: 10px 0;
+    /* margin: 50px; */
+    margin: 20px auto;
+    display: block;
+    background-color: #1dbfaf;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #1ac7b6;
+}
+
+
+/* input {
+    outline: none;
+    padding: 3px 10px 3px;
+} */
+
+p {
+    margin: 15px 0 5px;
+    padding: 0;
+    font-weight: bold;
+    /* display: inline-block; */
+    /* color: #021816; */
+}
+
+input:hover {
+    border-color: #1dbfaf;
+}
+
+input:focus {
+    border-color: #1dbfaf;
+}
+
+h3 {
+    text-align: center;
+    margin: 0;
+    color: #189589;
+}
+
+.xuat {
+    color: rgb(209, 17, 0) !important;
+}
