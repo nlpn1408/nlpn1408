@@ -1,4 +1,6 @@
 body {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
     background-color: #eee;
     background-image: url(https://3.bp.blogspot.com/-7lMP43U_k7s/Ue11W90uvYI/AAAAAAAAFO4/pBaiD-TZp7Q/s1600/abstract-sky-background.jpg);
@@ -71,4 +73,21 @@ h3 {
     line-height: 25px;
     font-size: 20px;
     color: rgb(209, 17, 0) !important;
+}
+
+.container {
+    width: 1300px;
+    margin: auto;
+    font-size: 20px;
+    background-color: white;
+    padding: 10px;
+}
+
+.container .month {
+    margin-bottom: 10px;
+}
+
+.container span {
+    display: inline-block;
+    width: 10%;
 }

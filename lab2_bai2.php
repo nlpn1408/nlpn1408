@@ -23,7 +23,6 @@
                 }
                 $input = $_POST["input"];
         
-
                 if ( is_numeric($input) || strlen($input) > 1){
                     echo "Bạn nhập sai! ";
                     die();  
@@ -35,8 +34,7 @@
                 };
     
                 echo "$input là: $output";
-                // die();
-                
+                // die();           
             ?>
 
         </div>

@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #eee;
+    background-image: url(https://3.bp.blogspot.com/-7lMP43U_k7s/Ue11W90uvYI/AAAAAAAAFO4/pBaiD-TZp7Q/s1600/abstract-sky-background.jpg);
+}
+
+.column {
+    width: 25%;
+    /* float: left; */
+}
+
+.san_pham {
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+.san_pham img {
+    max-width: 90%;
+}
+
+.san_pham .ten {
+    font-size: larger;
+    font-variant: small-caps;
+    color: blue;
+}
+
+.san_pham .gia {
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.san_pham .gia del {
+    color: gray;
+}
+
+.container {
+    width: 1300px;
+    margin: auto;
+    font-size: 20px;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
