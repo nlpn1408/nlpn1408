@@ -1,0 +1,87 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #eee;
+    background-image: url(https://3.bp.blogspot.com/-7lMP43U_k7s/Ue11W90uvYI/AAAAAAAAFO4/pBaiD-TZp7Q/s1600/abstract-sky-background.jpg);
+    font-size: 20px;
+}
+
+form input {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(167, 165, 165);
+    outline: none;
+}
+
+button {
+    width: 30%;
+    padding: 10px 0;
+    /* margin: 50px; */
+    margin: 20px auto;
+    display: block;
+    background-color: #1dbfaf;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #21e9d5;
+}
+
+input:hover {
+    border-color: #1dbfaf;
+}
+
+input:focus {
+    border-color: #1dbfaf;
+}
+
+.xuat {
+    text-align: center;
+    margin: auto;
+    line-height: 30px;
+    font-size: 25px;
+    color: rgb(209, 17, 0) !important;
+}
+
+.container {
+    width: 60%;
+    margin: 20px auto;
+    font-size: 20px;
+    background-color: white;
+    padding: 10px;
+}
+
+.container h3 {
+    text-align: center;
+    margin: 0;
+    color: red;
+    font-size: 25px;
+}
+
+.container a {
+    text-align: center;
+    padding: 10px;
+    width: 500px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    background-color: #1dbfaf;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: #21e9d5;
+}
+
+#backBtn {
+    width: 100px;
+    margin: 20px 10px;
+    padding: 6px;
+}

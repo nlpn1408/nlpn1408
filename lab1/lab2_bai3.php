@@ -19,32 +19,30 @@
         <div class="xuat">
             <?php
                 if(!isset($_POST["input"]) ){
-                    // echo "Bạn chưa nhập! ";
                     die();
                 }
                 $input = $_POST["input"];
-        
+    
                 if ( !is_numeric($input) || $input < 1 ){
                     echo "Bạn nhập sai! ";
                     die();  
                 }
 
                 echo "Tổng: <br> 1 ";
-                $tong = 1 ;
+                $tong = 0 ;
                 for ($i=2; $i <= $input; $i++) { 
                     echo "+ $i ";
                     $tong += $i;
                 }  
-                echo " = $tong <br> Giai thừa: <br>";
-
+                echo " = $tong <br> ";
+                echo " Giai thừa: <br>";
                $giaiThua = 1;
+
                for ($i=1; $i <= $input; $i++) {
                    $giaiThua *= $i; 
                    echo "$i ! = $giaiThua <br>";
-
                }
-                // die();
-                
+           
             ?>
 
         </div>

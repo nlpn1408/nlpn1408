@@ -17,7 +17,6 @@
        
         <button type="submit">Submit</button>
 
-        
         <div class="xuat">
             <?php
                 if(isset($_POST["nam"])){
