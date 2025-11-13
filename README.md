@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Nguyễn Lê Phương Nam 👋</h2>
-<h4 align="center">Web Developer – Frontend & Full Stack</h4>
+<h4 align="center">Web Developer</h4>
 
 <p align="center">
 I build responsive, user-friendly, and performance-focused web applications.  
@@ -21,7 +21,7 @@ Experienced with ReactJS, Angular, Next.js, backend fundamentals, and modern dev
 
 ---
 
-## 🛠 Tech Stack (From CV)
+## 🛠 Tech Stack
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
