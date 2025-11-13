@@ -60,7 +60,7 @@ Experienced with ReactJS, Angular, Next.js, backend fundamentals, and modern dev
 
 ---
 
-## 💼 Work Experience (Aligned With CV)
+## 💼 Work Experience
 
 ### **Freelance Full Stack Developer — Hopper Solution & Education**  
 **03/2025 – Present**  
@@ -102,32 +102,6 @@ Experienced with ReactJS, Angular, Next.js, backend fundamentals, and modern dev
 - Graduation Type: **High Distinction**  
 - GPA: **3.61 / 4.0**  
 - Final Project: Full-stack coffee shop website (auth, cart, checkout, admin, NextJS + NodeJS)  
-
----
-
-## 📌 Featured Projects (From CV & Portfolio)
-(You có thể pin 6 repo lên GitHub để CV → GitHub khớp nhau)
-
-### ☕ Full-stack Coffee Shop (Final Project)
-- Product listing, cart, checkout, admin  
-- Implemented auth + REST APIs  
-- Stack: NextJS, Node.js, Express, PostgreSQL  
-
-### 🏨 Vinpearl / VinWonders (FE)
-- Booking flow, search/pay UI  
-- Responsive + API integration  
-
-### 🏨 CiHMS (FE)
-- Hotel room, booking, services UI  
-
-### 🛠 CiAMS (FE)
-- Asset management UI  
-
-### 💸 E-Wallet MVP (Freelance)
-- Core modules, UI, APIs  
-- Stack: Next.js, PostgreSQL, Vercel  
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
